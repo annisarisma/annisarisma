@@ -1,6 +1,13 @@
 # <p align="center"> <a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a><a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a> Hi, There I'm Risma! <a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a><a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a> </p>
 
-#### 🕵️‍♀️ Someone who have a deep interest in Laravel Development.
+<ul>
+    <li style="font-weight:bold">🕵️‍♀️ Someone who has a deep interest in Laravel development.</li>
+    <li style="font-weight:bold">🚀 Excited about remote opportunities.</li>
+    <li style="font-weight:bold">🌐 Open to exploring new technologies.</li>
+    <li style="font-weight:bold">💻 Excited about styling with original CSS and SCSS.</li>
+    <li style="font-weight:bold">🌈 Finds joy in crafting modern and clean UI application.</li>
+</ul>
+
 PS. I lost my torch due to a creeper yesterday. So I just lit a fire using flint on top because it's really dark here (since it's set in dark mode :D), hoping this fire won't touch my wooden house :"
 
 ### I will be happy if you follow my GitHub. Lets connect!
