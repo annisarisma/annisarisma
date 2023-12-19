@@ -18,7 +18,7 @@ PS. I lost my torch due to a creeper yesterday. So I just lit a fire using flint
 ## <a href="https://emoji.gg/emoji/5952-shulker-close"><img src="https://cdn3.emoji.gg/emojis/5952-shulker-close.gif" width="52px" height="52px" alt="shulker_close"></a> Reach me out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annisarisma) 
-[![Github](https://img.shields.io/badge/Github-E4405F?logo=github&logoColor=white)](https://medium.com/@aqilah) 
+[![Github](https://img.shields.io/badge/Github-E4405F?logo=github&logoColor=white)](https://github.com/annisarisma) 
 [![Dribble](https://img.shields.io/badge/Dribble-EA4C89?logo=dribbble&logoColor=white)](https://dribbble.com/Arsqy_Theme) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/aqilah117/)
 
