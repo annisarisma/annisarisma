@@ -10,7 +10,7 @@
 
 PS. I lost my torch due to a creeper yesterday. So I just lit a fire using flint on top because it's really dark here (since it's set in dark mode :D), hoping this fire won't touch my wooden house :"
 
-### I will be happy if you follow my GitHub. Lets connect!
+### I will be happy if you connect with my Linkedin. Lets connect!
 
 <img src="https://komarev.com/ghpvc/?username=annisarisma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="annisarisma" />
 
