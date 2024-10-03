@@ -1,7 +1,7 @@
 # <p align="center"> <a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a><a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a> Hi, There I'm Risma! <a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a><a href="https://emoji.gg/emoji/3435-minecraft-item-fire"><img src="https://cdn3.emoji.gg/emojis/3435-minecraft-item-fire.gif" width="64px" height="64px" alt="Minecraft_Item_Fire"></a> </p>
 
 <ul>
-    <li style="font-weight:bold">🕵️‍♀️ Someone who has a deep interest in Laravel development.</li>
+    <li style="font-weight:bold">🕵️‍♀️ Someone who has a deep interest in application development.</li>
     <li style="font-weight:bold">🚀 Excited about remote opportunities.</li>
     <li style="font-weight:bold">🌐 Open to exploring new technologies.</li>
     <li style="font-weight:bold">💻 Excited about styling with original CSS and SCSS.</li>
